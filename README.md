@@ -1,2 +1,2 @@
-# Follow-My-Journey
-Follow me on my programming coding journey
+# Follow My Journey
+Follow me on my coding journey
